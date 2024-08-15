@@ -11,7 +11,7 @@ The dataset used for this project is the Leap Motion hand gesture dataset, which
 
 - **Dataset Description:** The dataset includes images of 10 different hand gestures, captured by the Leap Motion sensor.
 - **Dataset Organization:** Images are organized by subject and gesture type.
-- **Dataset Source:** The dataset is available on Kaggle. You can access and download it [here]([https://www.kaggle.com/datasets/username/leap-motion-hand-gestures](https://www.kaggle.com/datasets/gti-upm/leapgestrecog).
+- **Dataset Source:** The dataset is available on Kaggle. You can access and download it from here ([https://www.kaggle.com/datasets/username/leap-motion-hand-gestures](https://www.kaggle.com/datasets/gti-upm/leapgestrecog).
 
 ## CNN Model Implementation
 
